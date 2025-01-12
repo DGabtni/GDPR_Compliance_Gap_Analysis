@@ -17,7 +17,6 @@ Key Deliverables:
 - Compliance roadmap
 
 Report Folder: Contains the full GDPR gap analysis report
-
 Material: !! Will add supporting meterial in the future e.g.(Charts,Matrixes,Flow Diagrams...) !!
 
 Dhia Gabtni-
