@@ -16,7 +16,7 @@ Key Deliverables:
 - Risk assessment matrix
 - Compliance roadmap
 
-Material Folder: !! Will add supporting meterial in the future e.g.(Charts,Matrixes,Flow Diagrams...) !!
+!! Will add supporting meterial in the future e.g.(Charts,Matrixes,Flow Diagrams...) !!
 
 Dhia Gabtni-
 
